@@ -2,7 +2,7 @@ import React from 'react'
 
 const sum = () => {
   return (
-    <div>sum</div>
+    <div>sum is  :</div>
   )
 }
 
